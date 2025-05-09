@@ -1,3 +1,5 @@
+# Original: https://github.com/UDEA-Esp-Analitica-y-Ciencia-de-Datos/EACD-03-BIGDATA/blob/master/init.py
+
 github_repo = 'repos-especializacion-UdeA/monografia_modelos'
 zip_file_url="https://github.com/%s/archive/master.zip"%github_repo
 
