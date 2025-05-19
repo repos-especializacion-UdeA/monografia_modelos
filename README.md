@@ -9,7 +9,7 @@ A continuación se lista:
    * **EDA señales crudas**: [02_posturas_dataset_EDA.ipynb](02_posturas_dataset_EDA.ipynb)
    * **EDA señales filtradas**: [02_filtered_posturas_dataset_EDA.ipynb](02_filtered_posturas_dataset_EDA.ipynb)
 4. **Extracción de caracteristias**: [03_features_extraction.ipynb](03_features_extraction.ipynb)
-5. **Analisis estadistico de las señales extraidas**:
+5. **Analisis estadistico de las señales extraidas**: [04_features_EDA.ipynb](04_features_EDA.ipynb)
 
 
 ## Para despues
