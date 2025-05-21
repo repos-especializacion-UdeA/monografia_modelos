@@ -2,15 +2,19 @@
 
 ## Lista de notebooks
 
-A continuación se lista:
+A continuación se listan cada uno de los notebooks:
+
 1. **Combinación del dataset**: [00_combinacion_dataset.ipynb](00_combinacion_dataset.ipynb)
 2. **Selección de posturas**: [01_seleccion_posturas_dataset.ipynb](01_seleccion_posturas_dataset.ipynb)
 3. **Analisis estadistico de las señales**: 
    * **EDA señales crudas**: [02_posturas_dataset_EDA.ipynb](02_posturas_dataset_EDA.ipynb)
    * **EDA señales filtradas**: [02_filtered_posturas_dataset_EDA.ipynb](02_filtered_posturas_dataset_EDA.ipynb)
 4. **Extracción de caracteristias**: [03_features_extraction.ipynb](03_features_extraction.ipynb)
-5. **Analisis estadistico de las señales extraidas**: [04_features_EDA.ipynb](04_features_EDA.ipynb)
-
+5. **Analisis estadistico de las caracteristicas extraidas**: [04_features_EDA.ipynb](04_features_EDA.ipynb)
+6. **Analisis estadistico de las señales**: 
+   * **Modelos RMS**: [05_models_RMS.ipynb](05_models_RMS.ipynb)
+   * **Modelos WL**: [05_models_WL.ipynb](05_models_WL.ipynb)
+   * **Modelos IAV**: [05_models_IAV.ipynb](05_models_IAV.ipynb)
 
 ## Para despues
 
