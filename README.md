@@ -15,6 +15,7 @@ A continuación se listan cada uno de los notebooks:
    * **Modelos RMS**: [05_models_RMS.ipynb](05_models_RMS.ipynb)
    * **Modelos WL**: [05_models_WL.ipynb](05_models_WL.ipynb)
    * **Modelos IAV**: [05_models_IAV.ipynb](05_models_IAV.ipynb)
+   * **Modelo de clustering para el RMS**: [05_models_cluster.ipynb](05_models_cluster.ipynb)
 
 ## Para despues
 
