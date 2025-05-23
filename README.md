@@ -33,3 +33,8 @@ Ensayar con otros otros movimientos teniendo en cuenta la siguiente información
 
 Mejorar el pipeline de trabajo emploando MLOPS.
 * https://prsdm.github.io/mlops-project/
+
+> **Agradecimiento especial**:
+> 1. A los profesores Maria Bernarda Salazar y Daniel Escobar por su guia y orientación para el desarrollo de la monografia.
+> 2. Al profesor Danny Munera por su apoyo incondicional antes y durante el proceso de la especialización.
+> 3. A la inteligencia artificial que nos va a dejar sin trabajo, pues si no fuera por hubieramos sido capaces con la especialización.
